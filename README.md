@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kitel
 - 👀 I’m interested in Full stack development
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python and JS projects
 - 📫 How to reach me : @KitelHillary on twitter 
 
 <!---
