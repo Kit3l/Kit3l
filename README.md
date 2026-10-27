@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kitel
 - 👀 I’m interested in Full stack development
 - 💞️ I’m looking to collaborate on python and JS projects
-- 📫 How to reach me : pchumbakitel@gmail.com or https://(https://kitel.site/)
+- 📫 How to reach me : pchumbakitel@gmail.com or (https://kitel.site/)
 
 <!---
 Kit3l/Kit3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
